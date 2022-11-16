@@ -9,6 +9,7 @@
     background-color: rgba(183, 175, 175, 0.157);
     height: 64px;
     border-radius: 10px;
+    margin: auto auto 50px auto;
 }
 
 .uploadCVinner{
