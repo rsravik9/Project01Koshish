@@ -930,7 +930,7 @@ ul {
 }
 
 .shadow-box {
-  box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
+  box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0);
 }
 
 .main-menu .main-menu__list>li>ul>li>ul>li>ul,
