@@ -58,6 +58,72 @@ div.gallery {
 
 /* For Gallery */
 
+/* Slider css start */
 
+.ram009 {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all .2s linear;
+}
+
+/* body {
+  background-color: #222;
+} */
+
+.ram007 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.ram007 a {
+  height: 200px;
+  width: 300px;
+  margin: 20px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 3px 5px #000;
+}
+
+.ram007 a img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.ram007 a img:hover {
+  transform: scale(1.4);
+}
+
+.lightboxText1 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 20px 35px;
+  color: rgba(202, 9, 9, 0.65);
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+
+.lightboxText2 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 20px 35px;
+  color: rgba(202, 9, 9, 0.65);
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+
+/* Slider css end */
 
 
